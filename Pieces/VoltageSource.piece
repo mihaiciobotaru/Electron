@@ -1,0 +1,12 @@
+6
+line 0 -40 0 -20
+circle 0 0 20 fixed
+line 0 0 0 -14 fixed
+line -7 -7 7 -7 fixed
+line -7 8 7 8 fixed
+line 0 20 0 40
+2
+0 -40
+0 40
+-20 20
+-20 20
