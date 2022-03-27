@@ -3,7 +3,7 @@
 ## Description
 
 The project aimed to be accomplished is called ”Electron”. This
-project consists of a graphical interface that gives the client the possibility to create, modify, save and load electronical circuits. Also the application has a theme and language menu and a hidden snake game.
+project consists of a graphical interface that gives the client the possibility to create, modify, save and load electronical circuits. Also the application has a theme and language menu and a hidden snake game. I have learned about SFML with the help of this project.
 
 ## Technologies used
 
